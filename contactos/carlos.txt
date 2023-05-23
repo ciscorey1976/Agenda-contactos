@@ -1,0 +1,3 @@
+Nombre:carlos
+Telefono:12365989
+Categoria:amigo

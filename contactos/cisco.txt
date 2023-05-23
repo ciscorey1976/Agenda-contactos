@@ -1,0 +1,3 @@
+Nombre:cisco
+Telefono:123658
+Categoria:amigo
